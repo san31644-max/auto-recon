@@ -9,6 +9,6 @@ A professional terminal-based recon tool for Kali Linux, inspired by Zphisher/SE
 
 ## 🚀 Installation
 ```bash
-git clone https://github.com/YOURUSERNAME/AutoReconX.git
+git clone https://github.com/san31644-max/auto-recon.git
 cd AutoReconX
 bash installer.sh
